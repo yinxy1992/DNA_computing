@@ -1,5 +1,5 @@
 ## DNA_computing
-python code to design DNA tiles and sticky ends
+Python code to design DNA tiles and sticky ends.
 This is the code to design DNA tiles, which could be used in the tile assembly based DNA computing.
 
 * tile_framework_design
