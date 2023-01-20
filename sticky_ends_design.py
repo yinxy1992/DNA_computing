@@ -221,7 +221,7 @@ if __name__ == '__main__':
 	parser.add_argument("--numsticky", type=int, default=1)
 	parser.add_argument("--single_word_repeats", type=int, default=3)
 	# parse.add_argument("--max_overlap", type=int, default=5)
-	parser.add_argument("--max_ratio", type=float, default=0.5)
+	parser.add_argument("--max_ratio", type=float, default=0.6) # 1-0.4
 	parser.add_argument("--max_repeats", type=int, default=5)
 	args = parser.parse_args()
 	lengthsticky = args.lengthsticky
